@@ -1,0 +1,15 @@
+faster-whisper>=1.0.0,<2.0.0
+silero-vad>=0.1.0,<1.0.0
+openai>=1.0.0,<2.0.0
+sounddevice>=0.4.0,<1.0.0
+numpy>=1.24.0,<2.0.0
+torch>=2.0.0,<3.0.0
+live2d-py>=3.0.0,<4.0.0
+pygame>=2.5.0,<3.0.0
+python-dotenv>=1.0.0,<2.0.0
+openwakeword>=0.6.0,<1.0.0
+duckduckgo-search>=5.0.0,<8.0.0
+psutil>=5.9.0,<7.0.0
+num2words>=0.5.12,<1.0.0
+opencv-python>=4.8.0,<5.0.0
+face-recognition>=1.3.0,<2.0.0
